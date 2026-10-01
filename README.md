@@ -1,6 +1,6 @@
 # Pharmacogenomic Variant Interpretation
 
-This repository contains the data and resources associated with our work:
+This repository contains the data and resources associated with our submitted work:
 
 F. Pucci, P. Hermans, M. Tsishyn, J. Cusato, and M. Rooman,  
 *"Assessing Computational Models for Pharmacogenomic Variant Interpretation"* (2026).  
